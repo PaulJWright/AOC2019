@@ -5,3 +5,5 @@ https://adventofcode.com/2019
 
 Completed:
 * Day 1, 4/12/2019
+* Day 2, 4/12/2019
+
